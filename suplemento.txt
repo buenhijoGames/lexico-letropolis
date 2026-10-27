@@ -1,0 +1,28 @@
+# Suplemento manual del léxico de Letrópolis.
+# Palabras de uso general recogidas en diccionarios de la lengua española que no
+# figuran en la fuente RLA-ES. Redactado a mano por el equipo del juego.
+# Una entrada por línea, en minúsculas y sin tildes (se conserva la ñ).
+# Las líneas que empiezan por '#' se ignoran. Revisar y ampliar libremente.
+
+# --- Palabras cortas ---
+ña
+ñas
+ño
+ños
+ñu
+ñus
+hi
+ox
+fez
+feces
+emu
+emus
+emues
+jet
+jets
+box
+boxes
+cuy
+cuyes
+kiwi
+kiwis
